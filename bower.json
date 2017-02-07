@@ -11,10 +11,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:gondola1011/resume-master.git"
+    "url": "https://github.com/gondola1011/resume-master.git"
   },
   "moduleType": [],
-  "homepage": "git@github.com:gondola1011/resume-master.git",
+  "homepage": "https://github.com/gondola1011/resume-master",
   "private": true,
   "ignore": [
     "**/.*",
