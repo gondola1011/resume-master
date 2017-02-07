@@ -1,6 +1,6 @@
 ## About this repo
 
-`resume-master` 是一个简历生成器，从json中读取数据，可部署到`github pages` 在线浏览，也可生成pdf格式简历。http://hawx1993.github.io/resume-master/
+`resume-master` 是一个简历生成器，从json中读取数据，可部署到`github pages` 在线浏览，也可生成pdf格式简历。http://gondola1011.github.io/resume-master/
 
  - 简历数据存放在`resume.json`文件中
  - 简历中的代码可高亮
